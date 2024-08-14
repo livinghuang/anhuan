@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Library/Arduino15/packages"
+		},
+		{
+			"path": "../../../../Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"esp32-hal-rgb-led.h": "c",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"system_error": "cpp",
+			"array": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}

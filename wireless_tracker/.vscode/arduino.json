@@ -1,0 +1,7 @@
+{
+    "port": "/dev/tty.usbmodem83201",
+    "configuration": "LoopCore=1,EventsCore=1,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=none,LORAWAN_REGION=6,LoRaWanDebugLevel=1,LORAWAN_DEVEUI=1,LORAWAN_PREAMBLE_LENGTH=0,SLOW_CLK_TPYE=0,EraseFlash=none",
+    "board": "Heltec-esp32:esp32:heltec_wireless_tracker",
+    "sketch": "wireless_tracker_lee.ino",
+    "output": "../build_wireless_tracker_lee"
+}
