@@ -1,0 +1,587 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/variants/heltec_wireless_tracker"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "LoRaWan_APP.h",
+    "Includepath": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/SPI/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "BLEDevice.h",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "FS.h",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/FS/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "SD.h",
+    "Includepath": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/SD/src"
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/wireless_tracker_lee.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/Dps310.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/DpsClass.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/I2Cdev.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/MPU6050.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/MPU6050_6Axis_MotionApps20.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/MPU6050_6Axis_MotionApps612.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/MPU6050_9Axis_MotionApps41.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/adc5v.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/battery.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/ble.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/button.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/buzzer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/global.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/gps.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/gsensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/led.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/lora.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/lorawan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/psensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/code/github/anhuan/build_wireless_tracker_lee/sketch/sdd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/BH1750.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/BMP180.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/GXHTC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/HT_Display.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/HT_DisplayUi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/HT_TinyGPS++.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/HT_st7735.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/HT_st7735_fonts.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/HT_st7736.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/LoRaWan_APP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/clk.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/da217.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/board.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/delay.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/gpio-board.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/gpio.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/sx1262-board.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/sx126x.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/sx1276-board.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/driver/sx1276.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/heltec.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/lora/LoRa.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/LoRaMac.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/LoRaMacClassB.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/LoRaMacConfirmQueue.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/LoRaMacCrypto.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/aes.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/cmac.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/Region.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionAS923.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionAU915.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionCN470.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionCN779.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionCommon.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionEU433.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionEU868.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionIN865.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionKR920.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionUS915-Hybrid.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/region/RegionUS915.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/loramac/utilities.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Documents/Arduino/libraries/Heltec_ESP32_Dev-Boards/src/radio/radio.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/SPI/src/SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLE2902.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLE2904.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEAddress.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEAdvertisedDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEAdvertising.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEBeacon.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLECharacteristic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLECharacteristicMap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEDescriptor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEDescriptorMap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEEddystoneTLM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEEddystoneURL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEExceptions.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEHIDDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLERemoteCharacteristic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLERemoteDescriptor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLERemoteService.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLESecurity.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEService.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEServiceMap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEUUID.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEUtils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/BLEValue.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/FreeRTOS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/BLE/src/GeneralUtils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/FS/src/FS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/FS/src/vfs_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/SD/src/SD.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/SD/src/sd_diskio.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/living/Library/Arduino15/packages/Heltec-esp32/hardware/esp32/3.0.0/libraries/SD/src/sd_diskio_crc.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

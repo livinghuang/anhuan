@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../../..,../../..,../../..,../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "Heltec-esp32:esp32:heltec_wireless_tracker:LoopCore=1,EventsCore=1,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=none,LORAWAN_REGION=6,LoRaWanDebugLevel=1,LORAWAN_DEVEUI=1,LORAWAN_PREAMBLE_LENGTH=0,SLOW_CLK_TPYE=0,EraseFlash=none",
+  "hardwareFolders": "/Users/living/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/living/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/living/code/github/anhuan/wireless_tracker_lee"
+}

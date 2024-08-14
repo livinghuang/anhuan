@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Heltec_ESP32-master"
+		}
+	],
+	"settings": {}
+}
